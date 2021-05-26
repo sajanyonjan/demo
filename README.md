@@ -1,1 +1,1 @@
-This is the explanation of the project
+This the learning of git
